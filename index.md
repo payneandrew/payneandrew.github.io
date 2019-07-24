@@ -3,13 +3,25 @@ layout: default
 ---
 # Engineering Experience
 
-## Software Engineering Internship
+## Software Engineering Internship | _Raytheon_
 > June 2019 - Present
 * Developed code to utilize avoidance and collision algorithms to automatically redirect flight paths of UAV’s to avoid friendly vehicles in Java.
 * Configured and built Linux virtual machines.
 * Wrote internal technical documentation procedures for system configurations.
 
 # Project Experience
+
+## University Innovation Fellowship
+> Stanford University
+* Founded a mentorship program to promote cross-class engagement between engineering students – 50+ students involved.
+* Planned and facilitated a professional development workshop – 30 students attended.
+![UIF](https://payneandrew.github.io/IMG_1790.JPG)
+
+## JMU Collegiate Wind Competition Capstone 
+> U.S Department of Energy
+* Designing and building small-scale wind turbine to compete in the DOE Collegiate Wind Competition.
+* Developed an analytical model in Matlab of an electromagnetic wind power generator.
+
 
 # Leadership Experience
 
@@ -95,7 +107,7 @@ end
 
 ### Small image
 
-![Octocat](https://payneandrew.github.io/IMG_1786.JPG)
+
 
 ### Large image
 
