@@ -1,15 +1,13 @@
 ---
 layout: default
 ---
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Engineering Experience
 
 ## Software Engineering Internship
 > June 2019 - Present
 * Developed code to utilize avoidance and collision algorithms to automatically redirect flight paths of UAV’s to avoid friendly vehicles in Java.
+* Configured and built Linux virtual machines.
+* Wrote internal technical documentation procedures for system configurations.
 
 # Project Experience
 
@@ -97,7 +95,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://payneandrew.github.io/IMG_1786.JPG)
 
 ### Large image
 
