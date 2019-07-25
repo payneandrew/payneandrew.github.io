@@ -33,6 +33,7 @@ layout: default
 > September 2018 - Present
 * Designing and building small-scale wind turbine to compete in the DOE Collegiate Wind Competition.
 * Developed an analytical model in Matlab of an electromagnetic wind power generator.
+![DOE](https://payneandrew.github.io/DOE.jpg)
 
 ### Incubator Challenge | _Booz Allen Hamilton_
 > September 2018 - Present
