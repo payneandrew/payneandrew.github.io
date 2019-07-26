@@ -11,6 +11,8 @@ layout: default
 * Developed code to utilize avoidance and collision algorithms to automatically redirect flight paths of UAV’s to avoid friendly vehicles in Java.
 * Configured and built Linux virtual machines.
 * Wrote internal technical documentation procedures for system configurations.
+![RAYTHEON](https://payneandrew.github.io/raytheon_intern.jpg)
+
 
 ### Software Engineering Internship | _NT Concepts_
 > May 2018 - August 2018
@@ -18,7 +20,6 @@ layout: default
 * Programmed object detection and tracking algorithms in python utilizing computer vision.
 * Worked in and researched agile project team environments.
 * Wrote, organized, and categorized government contracts and proposals.
-
 
 
 # Project Experience
