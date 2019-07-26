@@ -20,6 +20,7 @@ layout: default
 * Programmed object detection and tracking algorithms in python utilizing computer vision.
 * Worked in and researched agile project team environments.
 * Wrote, organized, and categorized government contracts and proposals.
+![NTConcepts](https://payneandrew.github.io/NTConcepts_intern.jpg)
 
 
 # Project Experience
