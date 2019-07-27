@@ -3,6 +3,7 @@ layout: default
 ---
 
 [Check out my personal page](./personal.html).
+
 [Check out my projects page](./projects.html).
 
 # Engineering Experience
