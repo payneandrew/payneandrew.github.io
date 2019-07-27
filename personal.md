@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Personal
+# Travel
+
+# Winter Sports
 
 _yay_
 
