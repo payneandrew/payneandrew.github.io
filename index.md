@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Link to another page](./personal.html).
+[Check out my personal page](./personal.html).
 
 # Engineering Experience
 
