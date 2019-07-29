@@ -62,3 +62,4 @@ layout: default
 * Organized and gave tours of the JMU Engineering Department.
 * Visited K-12 schools and gave presentations about engineering.
 
+**[Back to Homepage](./)**
