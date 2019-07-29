@@ -6,6 +6,12 @@ layout: default
 
 [Check out my resume here](./resume.html).
 
+# Projects
+
+### University Innovation Fellowship | _Stanford University_
+UIF was created to empower students to become change agents and create innovative and creative solutions to real problems facing their communities. As a fellow, I founded a mentorship program to promote cross-class engagement between engineering students at my school, I created and hosted a professional development workshop at my school, and I attended a UIF meetup at Stanford University. Check out the article my team and I wrote about the meetup <a href="https://www.linkedin.com/pulse/5-ways-we-think-differently-after-attending-fellows-valley-mccullagh/">**here.**</a>
+![UIF](https://payneandrew.github.io/images/IMG_3940.JPG)
+
 # Engineering Experience
 
 ### Software Engineering Internship | _Raytheon_
