@@ -16,6 +16,10 @@ UIF was created to empower students to become change agents and create innovativ
 As an Engineering Student at James Madison University, my two year long capstone project is to design and fabricate a functional, small scale wind turbine to compete in the <a href="https://www.energy.gov/eere/collegiatewindcompetition/collegiate-wind-competition">**2020 Collegiate Wind Competition**</a> in Boulder, Colorado. Utilizing 3D printers, microcontrolers, and other mechanical and electrical components we are designing a wind turbine that can maximize power at all wind speeds and perform other various tasks determined by the Department of Energy.
 ![DOE](https://payneandrew.github.io/DOE.jpg)
 
+### Undergraduate Research Assistant in Electric Vehicle Systems
+As an undergraduate research assistant working under the <a href="https://eaa-1967.clubexpress.com/content.aspx?sl=1344415327">**Electric Auto Assocation**</a>, I worked to design and assemble the battery and battery management systems of an electric powered motorcycle. I also had the oppourtunity to test production class electric motorcycles at The Ohio Mile Event as pictured below.
+![OHIO](https://payneandrew.github.io/ohio.jpg)
+
 # Hackathons and Design Challenges
 
 ### Booz Allen Hamilton Incubator Challenge
