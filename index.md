@@ -9,29 +9,29 @@ layout: default
 # Internships 
 
 ## Software Engineering Intern at _Raytheon_
-![RAYTHEON](https://payneandrew.github.io/raytheon_intern.jpg)
+![RAYTHEON](https://payneandrew.github.io/images/raytheon_intern.jpg)
 <br><br>
 
 ## Software Engineering Intern at _NT Concepts_
 I worked with a team of software engineers and data scienctists to develop a tracking algorithm that utilizes computer vision and image processing to track vehicles from aerial videography. Utilizing **machine learning** platform tensorflow, we input tracked data into a convolutional neural net to be trained and classified.
-![NTConcepts](https://payneandrew.github.io/NTConcepts_intern.jpg)
+![NTConcepts](https://payneandrew.github.io/images/NTConcepts_intern.jpg)
 <br><br>
 
 # Projects
 
 ## University Innovation Fellow at _Stanford University_
 UIF was created to empower students to become change agents and create innovative and creative solutions to real problems facing their communities. As a fellow, I founded a mentorship program to promote cross-class engagement between engineering students at my school, I created and hosted a professional development workshop at my school, and I attended a UIF meetup at Stanford University. Check out the article my team and I wrote about the meetup <a href="https://www.linkedin.com/pulse/5-ways-we-think-differently-after-attending-fellows-valley-mccullagh/">**here.**</a>
-![UIF](https://payneandrew.github.io/IMG_1790.JPG)
+![UIF](https://payneandrew.github.io/images/UIF.jpg)
 <br><br>
 
 ## Electronics and Controls Engineer at Collegiate Wind Competition Capstone - _Department of Energy_
 As an Engineering Student at James Madison University, my two year long capstone project is to design and fabricate a functional, small scale wind turbine to compete in the <a href="https://www.energy.gov/eere/collegiatewindcompetition/collegiate-wind-competition">**2020 Collegiate Wind Competition**</a> in Boulder, Colorado. Utilizing 3D printers, microcontrolers, and other mechanical and electrical components we are designing a wind turbine that can maximize power at all wind speeds and perform other various tasks determined by the Department of Energy.
-![DOE](https://payneandrew.github.io/DOE.jpg)
+![DOE](https://payneandrew.github.io/images/DOE.jpg)
 <br><br>
 
 ## Undergraduate Research Assistant in Electric Vehicle Systems
 As an undergraduate research assistant working under the <a href="https://eaa-1967.clubexpress.com/content.aspx?sl=1344415327">**Electric Auto Assocation**</a>, I worked to design and assemble the battery and battery management systems of an electric powered motorcycle. I also had the oppourtunity to test production class electric motorcycles at The Ohio Mile Event as pictured below.
-![OHIO](https://payneandrew.github.io/ohio.jpg)
+![OHIO](https://payneandrew.github.io/images/ohio.jpg)
 <br><br>
 
 
