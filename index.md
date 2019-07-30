@@ -40,6 +40,8 @@ As an undergraduate research assistant working under the <a href="https://eaa-19
 ## Booz Allen Hamilton Incubator Challenge | Second Place Recipient
 The Incubator Challenge is a two-week challenge to come up with a solution for a real world problem facing society. As a group my team was tasked with the problem of conveying the risk of floods by Mobile Flood Prediction Visualization. This is a serious issue because flooding is the most deadly weather-related issue in the United States (claims 200 lives a year). To solve this problem, we brainstormed many different ideas but ultimately settled on a two-tier solution that incorporated an application and drones. I took the lead for the application and created an application prototype. This app would use user input, similar to that of Waze, to connect the community together by communicating evacuation routes, requesting help, reporting safe locations, and more. First responders would also have access to this information. Our second tier of the solution was a drone that would have the ability to send live video to the app, calculate the speed and depth of the water, and use a thermal camera to find flood survivors.
 This solution placed us in **2nd place** out of 8 teams.
+![BOOZ](https://payneandrew.github.io/images/app_screenshot.jpg)
+![BOOZ](https://payneandrew.github.io/images/app_screenshot_2.jpg)
 <br><br>
 
 ## Bluestone Hacks
