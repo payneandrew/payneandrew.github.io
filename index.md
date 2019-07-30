@@ -4,7 +4,6 @@ layout: default
 
 <!-- [Check out my personal page](./personal.html). -->
 
-**[RESUME](./resume.html)**
 
 # Internships 
 
