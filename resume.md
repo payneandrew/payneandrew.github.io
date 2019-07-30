@@ -4,6 +4,14 @@ layout: default
 
 # Resume
 
+## Skills
+
+**Proficient:** Python, Java, MATLAB, Linux, Visual Studio Code, Eclipse, Agile Development, Electronics and Controls
+
+**Moderate:** C++, VMWare, VirtualBox, Google Cloud Platform, GitHub, Subversion, Technical Writing
+
+**Some Exposure:** SQL, JUint Testing, Software Architecture
+
 ## Engineering Experience
 
 ### Software Engineering Internship | _Raytheon_
