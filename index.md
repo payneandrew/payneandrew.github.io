@@ -8,7 +8,7 @@ layout: default
 # Internships 
 
 ## Software Engineering Intern at _Raytheon_
-As a Software Engineering Intern at Raytheon, I worked to create a mission management system to connect and communicate with a series of autonomous vehicles in multiple domains (air, sea, land). I developed code for an autonomous goal and visualization engine that plans and executes paths for UAV’s. This engine takes in inputs from the system operator about the mission plan and outputs a path that avoids threats, weather, and other vehicles traffic in the airspace.
+As a Software Engineering Intern at Raytheon, I worked to create a mission management system to connect and communicate with a series of autonomous vehicles in multiple domains (air, sea, land). I developed code for an autonomous goal and visualization engine that plans and executes paths for UAV’s. This engine takes in inputs from the system operator about the mission plan and outputs a path that avoids threats, weather, and other vehicle traffic in the airspace.
 ![RAYTHEON](https://payneandrew.github.io/images/raytheon_intern.jpg)
 <br><br>
 
