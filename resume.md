@@ -3,8 +3,13 @@ layout: default
 ---
 
 # Resume
+## Education
+**James Madison University, Harrisonburg, VA** <br>
+Engineering B.S. May 2020 (ABET Certified Degree)
+* Focus in Electrical and Software Engineering
+* Robotics Minor
+* Mathematics Minor 
 
-## Skills
 ### Software Skills
 > **Languages:** Python, Java, C++, MATLAB
 
