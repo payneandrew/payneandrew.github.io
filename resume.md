@@ -5,12 +5,15 @@ layout: default
 # Resume
 
 ## Skills
+### Software Skills
+> **Languages:** Python, Java, C++, MATLAB
 
-**Proficient:** Python, Java, MATLAB, Linux, Visual Studio Code, Eclipse, Agile Development, Electronics and Controls
+> **Development Environments:** Eclipse, Visual Studio Code
 
-**Moderate:** C++, VMWare, VirtualBox, Google Cloud Platform, GitHub, Subversion, Technical Writing
+> **Software Tools:** Github, Subversion, VMWare, Virtual Box, Google Cloud Platform, Agile Methodologies
 
-**Some Exposure:** SQL, JUint Testing, Software Architecture
+### Hardware Skills
+> **Hardware Skills:** LabVIEW, Op-amps, Analog and Digital Filters, Microcontrollers, Circuit Design
 
 ## Engineering Experience
 
