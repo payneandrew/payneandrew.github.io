@@ -13,7 +13,7 @@ Engineering B.S. May 2020 (ABET Certified Degree)
 ### Software Skills
 > **Languages:** Python, Java, C++, MATLAB
 
-> **Development Environments:** Eclipse, Visual Studio Code
+> **Development Environments:** Eclipse, Visual Studio Code, Atom
 
 > **Software Tools:** Github, Subversion, VMWare, Virtual Box, Google Cloud Platform, Agile Methodologies
 
