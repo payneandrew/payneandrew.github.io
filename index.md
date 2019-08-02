@@ -57,6 +57,7 @@ Bluestone hacks is an annual 24-hour design challenge sponsored by Booz Allen Ha
 
 ## Engineering Leadership Development Program at _JMU Department of Engineering_
 As a Madison Engineering Leader, I Mentored and taught eleven first-year Madison Engineering students, created a weekly lesson plans with my co-leader, received training in emotional intelligence, diversity inclusion, defining core values, and more. In addition, I also worked in the Engineering Learning Center to empower and assist first-year engineering students to succeed in their engineering classes.
+![LEADERSHIP](https://payneandrew.github.io/images/IMG_3956.JPG)
 <br><br>
 
 ## Head of Tours at _Engineering Ambassadors-JMU Chapter_
