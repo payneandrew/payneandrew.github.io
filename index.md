@@ -34,6 +34,11 @@ As an undergraduate research assistant working under the <a href="https://eaa-19
 ![OHIO](https://payneandrew.github.io/images/ohio.jpg)
 <br><br>
 
+## Project Manager at Human Powered Vehicle Project
+The human powered vehicle project is a year long, client based, design project as part of the Madison Engineering department. Our client was a young girl in the community who had cerebral palsy which did not allow her to ride a traditional bicycle. From initial sketch to final physical product, my team and I built a custom human powered vehicle built specifically for her with her abilities in mind.
+![HPV](https://payneandrew.github.io/images/hpv.jpg)
+![HPV](https://payneandrew.github.io/images/hpv2.jpg)
+<br><br>
 
 # Hackathons and Design Challenges
 
