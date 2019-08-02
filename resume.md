@@ -15,7 +15,7 @@ Engineering B.S. May 2020 (ABET Certified Degree)
 
 > **Development Environments:** Eclipse, Visual Studio Code, Atom
 
-> **Software Tools:** Github, Subversion, VMWare, Virtual Box, Google Cloud Platform, Agile Methodologies
+> **Software Tools:** Github, Subversion, VMWare, Virtual Box, Google Cloud Platform, Jenkins, TensorFlow, Agile Methodologies
 
 ### Hardware Skills
 > **Hardware Skills:** LabVIEW, Op-amps, Analog and Digital Filters, Microcontrollers, Circuit Design
