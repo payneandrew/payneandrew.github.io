@@ -25,7 +25,8 @@ Engineering B.S. May 2020 (ABET Certified Degree)
 ### Software Engineering Internship | _Raytheon_
 > June 2019 - Present
 * Developed code to utilize avoidance and collision algorithms to automatically redirect flight paths of UAV’s to avoid friendly vehicles in Java.
-* Configured and built Linux virtual machines.
+* Designed and programmed a user interface to display video, alerts, and commands for a counter drone application.
+* Configured virtual and physical machines using Linux CentOS operating system.
 * Wrote internal technical documentation procedures for system configurations.
 
 
