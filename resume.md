@@ -15,7 +15,7 @@ Engineering B.S. May 2020 (ABET Certified Degree)
 
 > **Development Environments:** Eclipse, Visual Studio Code, Atom
 
-> **Software Tools:** Github, Subversion, VMWare, Virtual Box, Google Cloud Platform, Jenkins, TensorFlow, Agile Methodologies
+> **Software Tools:** Github, Subversion, VMWare, Virtual Box, Google Cloud Platform, Jenkins, Qt, TensorFlow, Agile Methodologies
 
 ### Hardware Skills
 > **Hardware Skills:** LabVIEW, Op-amps, Analog and Digital Filters, Microcontrollers, Circuit Design
@@ -25,7 +25,7 @@ Engineering B.S. May 2020 (ABET Certified Degree)
 ### Software Engineering Internship | _Raytheon_
 > June 2019 - Present
 * Developed code to utilize avoidance and collision algorithms to automatically redirect flight paths of UAV’s to avoid friendly vehicles in Java.
-* Designed and programmed a user interface to display video, alerts, and commands for a counter drone application.
+* Designed and programmed a user interface to display video, alerts, and commands for a counter drone application using Qt.
 * Configured virtual and physical machines using Linux CentOS operating system.
 * Wrote internal technical documentation procedures for system configurations.
 
