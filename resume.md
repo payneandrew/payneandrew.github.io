@@ -23,7 +23,7 @@ Engineering B.S. May 2020 (ABET Certified Degree)
 ## Engineering Experience
 
 ### Software Engineering Internship | _Raytheon_
-> June 2019 - Present
+> June 2019 - August 2019
 * Developed code to utilize avoidance and collision algorithms to automatically redirect flight paths of UAV’s to avoid friendly vehicles in Java.
 * Designed and programmed a user interface to display video, alerts, and commands for a counter drone application using Qt.
 * Configured virtual and physical machines using Linux CentOS operating system.
@@ -55,12 +55,12 @@ Engineering B.S. May 2020 (ABET Certified Degree)
 
 
 ### Incubator Challenge | _Booz Allen Hamilton_
-> September 2018 - Present
+> September 2017
 * Utilized machine learning and computer vision to identify gas leaks from aerial imagery and sensors.
 * Designed a user interface to automate and display data about gas leak and people in the area.
 
 ### Undergraduate Research Assistant | _Electric Automobile Association_
-> September 2018 - Present
+> September 2016 - May 2017
 * Designing and building small-scale wind turbine to compete in the DOE Collegiate Wind Competition.
 * Developed an analytical model in Matlab of an electromagnetic wind power generator.
 
